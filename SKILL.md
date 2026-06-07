@@ -1,6 +1,6 @@
 ---
 name: vibe-coding-security
-description: Vibe Coding / AI 生成代码上线前的 5 个安全坑 —— 短信轰炸、UGC 审核、图床滥用、提示词注入、Demo 即产品陷阱
+description: Vibe Coding / AI 生成代码上线前的 5 个安全坑 — 短信轰炸、UGC 审核、图床滥用、提示词注入、Demo 即产品陷阱 | AI-generated code security checklist: CAPTCHA, UGC moderation, file uploads, prompt injection, demo-as-product pitfalls
 license: MIT
 ---
 
